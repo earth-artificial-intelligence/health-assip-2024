@@ -1,0 +1,9 @@
+{
+  "id" : "an3aju5ovvc70qiptev3",
+  "name" : "breatheright_workflow",
+  "description" : "breathright workflow",
+  "owner" : "111111",
+  "confidential" : "FALSE",
+  "edges" : "[{\"source\":{\"title\":\"breatheright_data_preparation\",\"id\":\"bf1ioh-WRSzv\",\"x\":366.5,\"y\":193.5},\"target\":{\"title\":\"breatheright_correlation_analysis\",\"id\":\"k5yduw-DAR3I\",\"x\":364.5,\"y\":361.5}}]",
+  "nodes" : "[{\"title\":\"breatheright_correlation_analysis\",\"id\":\"k5yduw-DAR3I\",\"x\":364.5,\"y\":361.5},{\"title\":\"breatheright_data_preparation\",\"id\":\"bf1ioh-WRSzv\",\"x\":366.5,\"y\":193.5}]"
+}
